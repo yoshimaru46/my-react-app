@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/babel-cli-example/node_modules
 
 # testing
 /coverage
